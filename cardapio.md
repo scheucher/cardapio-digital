@@ -1,7 +1,7 @@
 # Cardápio Digital
 
 ## Pratos Principais
-- Feijoada completa — R$ 35,00
+- Feijoada completa — R$ 39,90
 - Frango grelhado com legumes — R$ 28,00
 
 ## Bebidas
