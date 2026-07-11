@@ -7,6 +7,7 @@
 ## Bebidas
 - Suco natural — R$ 8,00
 - Refrigerante — R$ 6,00
+- Água de coco — R$ 7,00
 
 ## Sobremesas
 - Pudim de leite — R$ 12,00
