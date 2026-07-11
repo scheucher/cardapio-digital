@@ -12,3 +12,7 @@
 ## Sobremesas
 - Pudim de leite — R$ 12,00
 - Mousse de maracujá — R$ 10,00
+
+## Combos
+- Combo Família (feijoada + 4 sucos) — R$ 59,90
+- Combo Casal (2 frangos + 2 refrigerantes) — R$ 62,00
